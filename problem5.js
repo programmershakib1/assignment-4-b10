@@ -26,4 +26,5 @@ function waitingTime(waitingTimes, serialNumber) {
 const result = waitingTime(7 , 10);
 // const result = waitingTime("[6,2]", 9);
 // const result = waitingTime([7, 8, 3, 4, 5], "9");
+// const result = waitingTime([7, 8, 3, 4, 5], "9");
 console.log(result);
